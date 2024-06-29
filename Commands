@@ -1,0 +1,32 @@
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1 (master)
+$ pwd
+/c/Users/user/Desktop/Lesson1
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1 (master)
+$ mkdir Cars
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1 (master)
+$ cd Cars
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1/Cars (master)
+$ touch BMW.txt
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1/Cars (master)
+$ touch MERCEDES.txt
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1/Cars (master)
+$ touch KIA.txt
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1/Cars (master)
+$ rm KIA.txt
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1/Cars (master)
+$ ls
+BMW.txt  MERCEDES.txt
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1/Cars (master)
+$ cd ..
+
+user@WIN-7E97P4QPKQM MINGW64 ~/Desktop/Lesson1 (master)
+$ rm -r Cars
